@@ -59,7 +59,7 @@
 #include "ignition/launch/config.hh"
 #include "ignition/launch/Plugin.hh"
 
-#include "vendor/backward.hpp"
+#include "backward.hpp"
 
 using namespace ignition::launch;
 using namespace std::chrono_literals;
