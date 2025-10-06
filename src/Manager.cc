@@ -60,7 +60,7 @@
 #include "gz/launch/InstallationDirectories.hh"
 #include "gz/launch/Plugin.hh"
 
-#include "vendor/backward.hpp"
+#include "backward.hpp"
 
 using namespace gz::launch;
 using namespace std::chrono_literals;
